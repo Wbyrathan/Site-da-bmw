@@ -39,7 +39,7 @@ body {
 }
 
 #cabecalho {
-    background-color: var(--cor-02);
+    background-color: transparent;
     margin-bottom: 30px;
 }
 
