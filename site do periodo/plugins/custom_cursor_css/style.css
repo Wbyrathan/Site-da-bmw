@@ -1,0 +1,5 @@
+*,
+body,
+#rodape a {
+	cursor: url("/plugins/custom_cursor_css/5.png"), auto;
+}
